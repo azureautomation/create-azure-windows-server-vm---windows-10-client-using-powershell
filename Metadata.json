@@ -1,7 +1,7 @@
 {
     "Author": "Mai Ali",
     "ContentSize": 9909,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-windows-server-vm-&-windows-10-client-using-powershell/master/CreateAzureVM.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-windows-server-vm---windows-10-client-using-powershell/master/CreateAzureVM.ps1",
     "DownloadCount": 1102,
     "Id": "Create-Azure-Windows-536a5cfd",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This Script was created to install Azure VM with Resource group including storage account, virtual network & storage content . The belowscript is for installing Azure VM for Windows Server 2012R2 & Windows 10 client.",
     "Title": "Create Azure Windows Server VM & Windows 10 Client using PowerShell",
     "UpdatedDate": "2017-12-20T00:00:00",
-    "Url": "https://github.com/azureautomation/create-azure-windows-server-vm-&-windows-10-client-using-powershell",
+    "Url": "https://github.com/azureautomation/create-azure-windows-server-vm---windows-10-client-using-powershell",
     "UserTags": "Azure, Microsoft Azure, Powershell"
 }
